@@ -1,6 +1,6 @@
-# Jackpot Rising Platform Documentation
+# Jackpot Rising Player Support
 
-This documentation site provides a comprehensive set of of integration setps and guides to help you integrate the Jackpot Rising platform as quickly as possible.
+This site contains FAQ's for players.
 
 ## Developer Support
 
@@ -13,4 +13,4 @@ This documentation site provides a comprehensive set of of integration setps and
 
 Found en error? Want to suggest a new guide? Want to contribute yourself? Our documentation is open source. Feel free create an issue or send a pull request. We value your feedback!
 
-[View on Github](https://github.com/JackpotRising/jr-docs)
+[View on Github](https://github.com/JackpotRising/jr-support)
