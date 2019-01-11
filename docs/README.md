@@ -1,10 +1,11 @@
-# Jackpot Rising Support
+# Jackpot Rising Platform Documentation
 
-(intro)
+This documentation site provides a comprehensive set of of integration setps and guides to help you integrate the Jackpot Rising platform as quickly as possible.
 
 ## Developer Support
 
 * <support@jackpotrising.com> - contact Jackpot Rising directly
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/jackpotrising) - for technical issues and discussion
 * [Discord Community](https://discordapp.com/invite/tVbJZUM) - chat with Jackpot Rising and other developers
 * [Reddit Community](https://www.reddit.com/r/jackpotrising/) - a player-focused community for Jackpot Rising
 

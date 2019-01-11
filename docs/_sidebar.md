@@ -1,6 +1,9 @@
 - Support
 
-    - [Topic One](/)
+    - [General](questions/general)
+    - [Account](questions/account)
+    - [Funds](questions/funds)
+    - [Tournaments](questions/tournaments)
 
 <!-- - Homebase
 
@@ -12,9 +15,10 @@
     - Guides
         - [Submit Game for Review](homebase/guides?id=submit-game-for-review)
         - [Monitoring Tournaments](homebase/guides?id=monitoring-tournaments)
-        - [Managing Account Funds](homebase/guides?id=managing-account-and-funds) -->
+        - [Managing Account Funds](homebase/guides?id=managing-account-and-funds)
+        - [Custom Game Currency](homebase/guides?id=custom-game-currency)
 
-<!-- - Unity SDK Integration
+- Unity SDK Integration
 
     - [Requirements](unity/requirements?id=requirements)
     - Integration
@@ -24,10 +28,24 @@
         - [Attempts and Scores](unity/integration?id=attempts-and-scores)
         - [Build for iOS](unity/integration?id=build-for-ios)
         - [Build for Android](unity/integration?id=build-for-android)
+    - Ad Support
+        - [How It Works](unity/ads?id=how-it-works)
+        - [Revenue Share Methods](unity/ads?id=revenue-share-methods)
+        - [Ad Integration](unity/ads?id=ad-integration)
+        - [Additional Support](unity/ads?id=additional-support)
     - Guides
         - [Game Randomization](unity/guides?id=game-andomization)
         - [Tournament Parameters](unity/guides?id=tournament-parameters)
-        - [Ad Supported Tournaments](unity/guides?id=ad-supported-tournaments) -->
+
+- iOS Native Integration
+
+  - [Requirements](ios/requirements?id=requirements)
+  - Integration
+    - [Initialize the Podfile](ios/integration?id=cocopods-initialization)
+    - [Trigger the SDK](ios/integration?id=trigger-the-sdk)
+    - [The Tournament Listener](ios/integration?id=the-tournament-listener)
+    - [Attempts and Scores](ios/integration?id=attempts-and-scores)
+    - [Compiling Settings](ios/integration?id=compiling-settings)
 
 <!--
 - Unreal SDK Integration
@@ -38,4 +56,4 @@
 - Additional Resources
 
     - [Official Website](https://www.jackpotrising.com ':target=_blank')
-    - [Documentation](https://docs.jackpotrising.com ':target=_blank')
+    - [Developer Documentation](https://docs.jackpotrising.com ':target=_blank')
