@@ -4,19 +4,19 @@
 
 There are multiple ways to create a Jackpot Rising account:
 
-- Create an account through our [player dashboard](https://playerhq.jackpotrising.com)
+- Create an account through [PlayerHQ](https://playerhq.jackpotrising.com)
 - Download one of our [games](https://www.jackpotrising.com/games) and create an account
 - Download our native app and sign up with our seemless onboarding *(coming soon)*
 
 ## Why do I have to provide any personal information?
 
-We hate when sites randomly ask for all of your information, as much as you do. That is why we make sure to only ask for information when it is absolutely necessary and only the minimum amount of information that we need. Below are the three main times we ask form personal informations:
+We hate when sites randomly ask for all of your information, as much as you do. That is why we make sure to only ask for information when it is absolutely necessary and only the minimum amount of information that we need. Below are the three main times we ask for personal informations:
 
 #### 1. Registration
 We allow you to create a guest account without providing any personal information so you can try out tournaments. However, to be able to save your progress and log back into your account, we require an email address and password to ensure that only you can get into your account.
 
 #### 2. Deposits
-You can use our entire platform without ever having to deposit! But if you decide to turn up the level of competition by deposting, then we are required by law to ask for your birthdate to verify your age. This is to ensure that you didn't steal (or "borrow") your bestfriend's credit card to add funds.
+You can use our entire platform without ever having to deposit! But if you decide to turn up the level of competition by deposting, then we are required by law to ask for your birthdate to verify your age. This is to ensure that you are using your credit card.
 
 #### 3. Withdrawals
 Congratulations! If you made it to this step, then you have won some money and you are wanting to pocket your hard earn winnings. Unfortunately, regulations for tracking withdrawals from an online platform are very strict. That is why we may require you to further verify your account with additional information.

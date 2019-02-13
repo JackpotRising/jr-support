@@ -1,6 +1,13 @@
 # Jackpot Rising Player Support
 
-This site contains FAQ's for players.
+If you are unable to find an answer to your quesiton in any of the FAQ's, then please email *support@jackpotrising.com* and we will get back to you as quickly as possible.
+
+## Additional Resources
+
+* [Jackpot Rising](https://jackpotrising.com)
+* [PlayerHQ](https://playerhq.jackpotrising.com)
+* Get iOS App *coming soon*
+* Get Google Play App *coming soon*
 
 ## Developer Support
 
