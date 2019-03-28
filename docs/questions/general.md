@@ -36,7 +36,7 @@ No. Nearly all of our tournaments that we run will offer a free-to-play mode whe
 2. Select the menu button in the upper right corner (three vertical dots)
 3. Select the "Add to Home screen" option in the actions offered
 
-#### PC/MAC
+#### MAC
 
 1. Visit [PlayerHQ](https://playerhq.jackpotrising.com) in Chrome
 2. Select the menu button in the upper right corner (three vertical dots)
