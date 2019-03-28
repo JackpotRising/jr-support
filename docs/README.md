@@ -6,8 +6,12 @@ If you are unable to find an answer to your quesiton in any of the FAQ's, then p
 
 * [Jackpot Rising](https://jackpotrising.com)
 * [PlayerHQ](https://playerhq.jackpotrising.com)
-* Get iOS App *coming soon*
-* Get Google Play App *coming soon*
+
+### Apps
+
+* [Get iOS App](https://itunes.apple.com/us/app/jackpot-rising/id1213052660?&mt=8)
+* [Get Android App](questions/general?id=how-do-i-get-the-android-app)
+* [Get Web App](questions/general?id=how-do-i-install-the-pwa-progressive-web-app)
 
 ## Developer Support
 

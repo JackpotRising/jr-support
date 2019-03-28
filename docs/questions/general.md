@@ -15,3 +15,29 @@ We are able to allow you to compete for real-money because all of our tournament
 ## Do I have to pay to play?
 
 No. Nearly all of our tournaments that we run will offer a free-to-play mode where you can make as many attempts as you’d like for free and still win prizes!
+
+## How do I get the Android App?
+
+1. **Download Android App** - Go to [PlayerHQ Apps](https://playerhq.jackpotrising.com/hub) and select the install button for Android
+2. **Enable Unknown Sources** - In your Settings page, tap on "Security" or "Applications" (varies by device) and enable "Unkown Sources" permission
+3. **Install & Launch Android App** - In your "Download" folder, find and tap on the "PlayerHQ.apk" file, then tap "Install" on the next screen
+
+## How do I install the PWA (Progressive Web App)?
+
+#### iOS
+
+1. Visit [PlayerHQ](https://playerhq.jackpotrising.com) in Safari
+2. Click the "Share" button (at the center of the browser bar)
+3. Select the "Add to Home screen" option in the actions offered
+
+#### Android
+
+1. Visit [PlayerHQ](https://playerhq.jackpotrising.com) in Chrome
+2. Select the menu button in the upper right corner (three vertical dots)
+3. Select the "Add to Home screen" option in the actions offered
+
+#### PC/MAC
+
+1. Visit [PlayerHQ](https://playerhq.jackpotrising.com) in Chrome
+2. Select the menu button in the upper right corner (three vertical dots)
+3. Click on "Install PlayerHQ" in the options provided
