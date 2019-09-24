@@ -12,9 +12,19 @@ Yes. We have several patents, dozens of legal reviews, and partnerships with maj
 
 We are able to allow you to compete for real-money because all of our tournaments are skill-based. That means that it is all up to how good you are at the game to determine if you win.
 
+## How do I compete in tournaments?
+
+1. **Create An Account** - You can create an account within any of our apps or directly through [PlayerHQ](https://playerhq.jackpotrising.com)
+2. **Download A Game** - To compete in our pc tournaments download our [PC App](https://overwolf.jackpotrising.com) on overwolf. To compete in our mobile tournaments download one of our games from our library in [PlayerHQ Games](https://playerhq.jackpotrising.com/games)
+3. **Enter A Tournament** - That's it! Enter a tournament and start competing for real-money jackpots!
+
 ## Do I have to pay to play?
 
 No. Nearly all of our tournaments that we run will offer a free-to-play mode where you can make as many attempts as you’d like for free and still win prizes!
+
+## How do I install the Native iOS App?
+
+Go to the apple app store and search for Jackpot Rising, or click here: [JR App](https://itunes.apple.com/us/app/jackpot-rising/id1213052660?&mt=8).
 
 ## How do I get the Android App?
 

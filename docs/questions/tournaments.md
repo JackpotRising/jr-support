@@ -1,6 +1,10 @@
 # Tournament Questions
 
-## How do tournaments work?
+## How do I compete in PC tournaments?
+
+Please see our [PC App FAQ section](https://support.jackpotrising.com/#/questions/pc)
+
+## How do mobile tournaments work?
 
 1. The first thing you need to do is make sure that you’ve created an account and downloaded one of our games to compete in.
 2. Then launch our tournament mode within the game and find a live tournament to compete in.
@@ -10,14 +14,24 @@
 ## Where can I see the games that you offer tournaments in?
 
 We have several mobile games that are available for you to download and play right now. Just head on over to our [games section](https://www.jackpotrising.com/games) and pick a game out.
-
+<!-- 
 ## Where can I find an arcade running tournaments?
 
-We will have a list of tournament arcade locations on [PlayerHQ](https://playerhq.jackpotrising.com) soon. Until then, follow us on social media to see where you can come and compete!
+We will have a list of tournament arcade locations on [PlayerHQ](https://playerhq.jackpotrising.com) soon. Until then, follow us on social media to see where you can come and compete! -->
 
 ## What are tournament tiers?
 
 We created tournament tiers to allow everyone the opportunity to compete at a level they are comfortable with. Tiers can be used to segment tournament gameplay by difficulty, attempt fee, payout, and more. 
+
+## What is an entry and what is an attempt?
+
+An **entry** enters you into the tournament and allows you to compete in said tournament. Once you have entered into the tournament, you can make as many **attempts** as the entry quota allows. Some tournaments are attempt based, which means that instead of entering the tournament you make one attempt each time.
+
+## What are tournament parameters and what do they mean?
+
+We have many ways to customize tournaments through the parameters that we set. Below are a few of our frequently used parameters and what they mean:
+
+# Need to grab the different parameters in groups for this 
 
 ## Why am I "locked in" to a tier?
 
@@ -41,7 +55,7 @@ We currently offer tournaments on iOS, Android, Xbox, PlayStation, PC, and Arcad
 
 ## What happens if I lose connection while making an attempt, or if I get an error?
 
-We understand that bad things happen to good people. If you run into an issue while making an attempt, then please contact us through our live chat or email us at Support@JackpotRising.com.
+We understand that bad things happen to good people. If you run into an issue while making an attempt, then please contact us through our [discord channel](https://discord.gg/XEj8SFp) or email us at Support@JackpotRising.com.
 
 > We do require that all users to have a stable internet connection in order to compete in tournaments.
 
