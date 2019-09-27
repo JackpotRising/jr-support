@@ -19,14 +19,14 @@ Withdrawal requests are still in the process of being automated, but there are a
 ## How many tournaments can I enter and compete in at the same time?
 Currently, you can enter into as many tournaments as you'd like and your score will count for all the tournaments that your current attempt can apply to.
 
+
 # Troubleshooting
 
 ## Why is Overwolf not detecting that my game is open?
 There are a few things that can cause this to happen. Below are some of the common causes and how to resolve them:
 
 - **You launched Overwolf after the game** - Overwolf needs to be launched before the game is launched to ensure that it can properly detect the game. Simply close out of Overwolf and the game and then relaunch Overwolf first, followed by any supported game. 
-- **You have the game disabled or the Jackpot Rising app disabled on Overwolf** - In Overwolf you are able to toggle individual games on and off. You are also able to toggle individual apps on and off for each game. Please check in your Overwolf settings to make sure that both the game and Jackpot Rising are enabled. 
-> *Please note that any game installed after you install Overwolf will be disabled by default.*
+- **You have the game disabled or the Jackpot Rising app disabled on Overwolf** - In Overwolf you are able to toggle individual games on and off. You are also able to toggle individual apps on and off for each game. Please check in your Overwolf settings to make sure that both the game and Jackpot Rising are enabled. *Please note that any game installed after you install Overwolf will be disabled by default.*
 - **You are playing an unsupported game** - Please check and make sure that the game you have running in the background is currently supported by Jackpot Rising. If it is not supported, then please reach out and let us know as we are always looking to add games to our platform.
 
 ## Why are my attempts not counting towards my tournament score/rank?
