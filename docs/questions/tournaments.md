@@ -31,7 +31,7 @@ An **entry** enters you into the tournament and allows you to compete in said to
 
 We have many ways to customize tournaments through the parameters that we set. Below are a few of our frequently used parameters and what they mean:
 
-# Need to grab the different parameters in groups for this 
+- **Quota** - Some tournaments require you to reach a minumum amount of attempts before you can be placed on the leaderboard, as indicated by the quota number.
 
 ## Why am I "locked in" to a tier?
 

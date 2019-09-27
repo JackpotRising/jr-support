@@ -4,6 +4,7 @@
     - [Account](questions/account)
     - [Funds](questions/funds)
     - [Tournaments](questions/tournaments)
+    - [PC App](questions/pc)
 
 - Additional Resources
 
